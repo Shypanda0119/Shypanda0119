@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+ShyPanda's+Github!👋&fontSize=40&animation=twinkling"/>
 </div>
 
-<h2 align=center>👀 Profile 👀</h2>
+<h2 align=center>🧸 Profile 🧸</h2>
 <br>
 <h4 align=center>📞 **Email** | </h4><br />
 <h4 align=center>✉ **Phone** | 010-</h4>
