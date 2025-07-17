@@ -107,7 +107,7 @@
   <div align=center>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Shypanda0119&utm_content=farm">
       <img
-        src="https://render.gitanimals.org/farms/dev-Kiwi7"
+        src="https://render.gitanimals.org/farms/Shypanda0119"
         width="600"
         height="300"
       />
