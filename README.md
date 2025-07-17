@@ -99,11 +99,11 @@
 
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=Shypanda0119&show_icons=true&theme=tokyonight" alt="Github stats"/>
-    <br>
+    <br><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shypanda0119&layout=compact&theme=tokyonight" alt="Top Langs"/>
   </div>
 
-  <br><br><br><br>
+  <br><br><br>
 
   <div align=center>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Shypanda0119&utm_content=farm">
