@@ -78,13 +78,6 @@
 
 ---
 
-<!-- 📊 GitHub Stats -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shypanda0119&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shypanda0119&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook" height="170"/>
-</div>
-
 ---
 
 <!-- 🌊 Footer -->
